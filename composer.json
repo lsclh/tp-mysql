@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Lsclh\\TpMysql\\": "src/"
+        }
+    },
+    "name": "lsclh/tp-mysql",
+    "description": "基于easyswoole3.x最新的tpmysql封装的基础类库",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cheng",
+            "email": "1019759208@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
